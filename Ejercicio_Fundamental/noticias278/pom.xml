@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.egg</groupId>
-	<artifactId>Noticia</artifactId>
+	<artifactId>noticias</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Noticia</name>
-	<description>Projecto noticia</description>
+	<name>noticias</name>
+	<description>Projecto de Noticias Web</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

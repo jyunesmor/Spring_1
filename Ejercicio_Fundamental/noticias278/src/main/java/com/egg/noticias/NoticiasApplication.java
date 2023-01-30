@@ -1,13 +1,13 @@
-package com.egg.Noticia;
+package com.egg.noticias;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NoticiaApplication {
+public class NoticiasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NoticiaApplication.class, args);
+		SpringApplication.run(NoticiasApplication.class, args);
 	}
 
 }
